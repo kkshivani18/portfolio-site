@@ -1,6 +1,6 @@
 # Portfolio
 
-### A clean and responsive personal portfolio to showcase my web development projects and skills.
+### A clean and responsive personal portfolio to showcase my experience, projects and skills.
 
 ### Getting Started
 
