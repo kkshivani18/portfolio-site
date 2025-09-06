@@ -27,7 +27,6 @@ const Hero = () => {
               alt="Profile"
               className=" w-full h-full rounded-full border-2 border-white-500 object-cover"
           />
-          {/* w-60 h-48  */}
         </motion.div>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
